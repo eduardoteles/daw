@@ -1,4 +1,5 @@
-﻿static class Parquimetro
+﻿
+static class Parquimetro
 {
     private static void Main(string[] args)
     {

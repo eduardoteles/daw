@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elteles\\source\\repos\\AulaPratica1\\AulaPratica1.csproj": {}
+    "C:\\Users\\elteles\\Source\\Repos\\eduardoteles\\dawgit\\AulaPratica1\\AulaPratica1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elteles\\source\\repos\\AulaPratica1\\AulaPratica1.csproj": {
+    "C:\\Users\\elteles\\Source\\Repos\\eduardoteles\\dawgit\\AulaPratica1\\AulaPratica1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elteles\\source\\repos\\AulaPratica1\\AulaPratica1.csproj",
+        "projectUniqueName": "C:\\Users\\elteles\\Source\\Repos\\eduardoteles\\dawgit\\AulaPratica1\\AulaPratica1.csproj",
         "projectName": "AulaPratica1",
-        "projectPath": "C:\\Users\\elteles\\source\\repos\\AulaPratica1\\AulaPratica1.csproj",
+        "projectPath": "C:\\Users\\elteles\\Source\\Repos\\eduardoteles\\dawgit\\AulaPratica1\\AulaPratica1.csproj",
         "packagesPath": "C:\\Users\\elteles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elteles\\source\\repos\\AulaPratica1\\obj\\",
+        "outputPath": "C:\\Users\\elteles\\Source\\Repos\\eduardoteles\\dawgit\\AulaPratica1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
